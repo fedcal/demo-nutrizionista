@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-nutrizionista",
+  "name": "demo-nutrizionista",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Nutrizionista — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://nutrizionista.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-nutrizionista.git"
+    "url": "https://github.com/fedcal/demo-nutrizionista.git"
   },
   "scripts": {
     "ng": "ng",
