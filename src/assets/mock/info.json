@@ -1,0 +1,39 @@
+{
+  "ragioneSociale": "Studio Bilancio Nutrizionale di Elena Conte",
+  "nomeCommerciale": "Studio Bilancio Nutrizionale",
+  "tagline": "Nutrizione personalizzata, evidence-based",
+  "ordine": "Ordine Nazionale dei Biologi — n. 087234",
+  "indirizzo": {
+    "via": "Via Nomentana 120",
+    "citta": "Roma",
+    "provincia": "RM",
+    "cap": "00161",
+    "regione": "Lazio",
+    "paese": "Italia",
+    "lat": 41.9109,
+    "lng": 12.5245
+  },
+  "contatti": {
+    "telefono": "+39 06 555 7890",
+    "whatsapp": "+39 347 555 7890",
+    "email": "info@studiobilancionutrizionale.it",
+    "social": {
+      "instagram": "https://instagram.com/studiobilancio_demo",
+      "facebook": "https://facebook.com/studiobilancio_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 19:00",
+    "martedi": "09:00 – 19:00",
+    "mercoledi": "09:00 – 19:00",
+    "giovedi": "09:00 – 18:00",
+    "venerdi": "09:00 – 18:00",
+    "sabato": "09:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Studio Bilancio Nutrizionale — Nutrizione personalizzata Roma",
+    "description": "Studio nutrizionale a Roma. Piani alimentari personalizzati evidence-based. Dr.ssa Elena Conte biologa nutrizionista. Prima visita €100.",
+    "keywords": ["nutrizionista roma", "biologa nutrizionista", "dieta personalizzata", "nutrizione sportiva", "intolleranze alimentari"]
+  }
+}

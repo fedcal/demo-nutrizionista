@@ -1,0 +1,89 @@
+{
+  "risorse": [
+    {
+      "id": "ricetta-bowl-quinoa",
+      "tipo": "ricetta",
+      "titolo": "Bowl di quinoa con verdure arrosto e hummus",
+      "descrizione": "Piatto unico completo: proteine vegetali complete dalla quinoa, grassi buoni dall'hummus, fibre e antiossidanti dalle verdure. Perfetto per il meal prep settimanale.",
+      "tempoPreparazione": "30 min",
+      "calorie": 480,
+      "categoria": "Pranzo",
+      "tags": ["vegetariano", "vegan", "alto-proteico", "meal-prep"],
+      "dataPublicazione": "2026-01-15"
+    },
+    {
+      "id": "ricetta-salmone-agrumi",
+      "tipo": "ricetta",
+      "titolo": "Salmone al cartoccio con agrumi e finocchio",
+      "descrizione": "Fonte eccellente di omega-3 EPA e DHA, con un profilo antiossidante elevato grazie agli agrumi. Cottura al cartoccio preserva nutrienti e sapori.",
+      "tempoPreparazione": "25 min",
+      "calorie": 390,
+      "categoria": "Cena",
+      "tags": ["pesce", "omega-3", "anti-infiammatorio", "facile"],
+      "dataPublicazione": "2026-02-03"
+    },
+    {
+      "id": "ricetta-colazione-proteica",
+      "tipo": "ricetta",
+      "titolo": "Colazione proteica: overnight oats con frutta e noci",
+      "descrizione": "Colazione bilanciata con lento rilascio energetico. Beta-glucani dell'avena per il colesterolo, proteine dello yogurt greco, antiossidanti dai frutti di bosco.",
+      "tempoPreparazione": "5 min + notte",
+      "calorie": 420,
+      "categoria": "Colazione",
+      "tags": ["colazione", "alto-proteico", "fibra", "meal-prep"],
+      "dataPublicazione": "2026-02-20"
+    },
+    {
+      "id": "ricetta-insalata-lenticchie",
+      "tipo": "ricetta",
+      "titolo": "Insalata tiepida di lenticchie, spinaci e feta",
+      "descrizione": "Combinazione ideale per massimizzare l'assorbimento del ferro non-eme delle lenticchie grazie alla vitamina C degli spinaci. Alto contenuto proteico e di fibre.",
+      "tempoPreparazione": "20 min",
+      "calorie": 360,
+      "categoria": "Pranzo",
+      "tags": ["legumi", "ferro", "vegetariano", "anti-anemico"],
+      "dataPublicazione": "2026-03-08"
+    },
+    {
+      "id": "ricetta-smoothie-verde",
+      "tipo": "ricetta",
+      "titolo": "Smoothie verde post-allenamento",
+      "descrizione": "Frullato pensato per il recupero muscolare dopo l'esercizio fisico. Banana per il glicogeno, spinaci per potassio e magnesio, proteine del latte per la sintesi proteica.",
+      "tempoPreparazione": "5 min",
+      "calorie": 290,
+      "categoria": "Spuntino",
+      "tags": ["post-workout", "recovery", "potassio", "facile"],
+      "dataPublicazione": "2026-03-22"
+    },
+    {
+      "id": "guida-prima-visita",
+      "tipo": "guida",
+      "titolo": "Come prepararsi alla prima visita nutrizionale",
+      "descrizione": "Guida pratica su cosa portare, come compilare il diario alimentare dei 3 giorni precedenti, cosa aspettarsi durante la visita e come interpretare i risultati. Include template diario.",
+      "pagine": 12,
+      "argomento": "Prima visita",
+      "tags": ["prima-visita", "guida-pratica", "diario-alimentare"],
+      "dataPublicazione": "2026-01-10"
+    },
+    {
+      "id": "guida-lettura-etichette",
+      "tipo": "guida",
+      "titolo": "Guida alla lettura delle etichette alimentari",
+      "descrizione": "Come interpretare le informazioni nutrizionali, gli ingredienti in ordine ponderale, i claims nutrizionali regolamentati UE e i valori di riferimento giornalieri (VRN).",
+      "pagine": 18,
+      "argomento": "Educazione alimentare",
+      "tags": ["etichette", "educazione", "consumatore-consapevole"],
+      "dataPublicazione": "2026-02-14"
+    },
+    {
+      "id": "guida-intolleranza-lattosio",
+      "tipo": "guida",
+      "titolo": "Vivere bene con l'intolleranza al lattosio",
+      "descrizione": "Guida completa: meccanismo fisiologico, soglia individuale, alimenti permessi/da limitare/vietati, fonti alternative di calcio e vitamina D, integrazione mirata.",
+      "pagine": 22,
+      "argomento": "Intolleranze",
+      "tags": ["lattosio", "intolleranza", "calcio", "sostituti"],
+      "dataPublicazione": "2026-04-05"
+    }
+  ]
+}

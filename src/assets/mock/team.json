@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dr.ssa Elena Conte",
+      "ruolo": "Biologa Nutrizionista — Fondatrice",
+      "qualifica": "Dottore in Biologia Applicata alle Scienze della Nutrizione",
+      "iscrizioneAlbo": "Ordine Nazionale dei Biologi n. 087234",
+      "bio": "Elena si laurea con lode in Biologia Applicata all'Università La Sapienza di Roma nel 2012, specializzandosi poi in Scienze della Nutrizione Umana. Dal 2014 esercita la libera professione con un approccio rigorosamente evidence-based, fondato sulle più recenti linee guida internazionali (ISSN, ESPEN, SINU). Nel 2019 fonda Studio Bilancio con l'obiettivo di rendere la nutrizione clinica accessibile, pratica e sostenibile nel lungo termine.",
+      "specializzazioni": ["Nutrizione clinica", "Nutrizione sportiva", "Gestione peso", "Nutrizione in gravidanza"],
+      "formazione": [
+        "Laurea magistrale Biologia Applicata — La Sapienza Roma (2012)",
+        "Master Scienze della Nutrizione Umana — Università Tor Vergata (2014)",
+        "Corso ISSN — Sport Nutrition (2018)",
+        "Formazione ESPEN — Clinical Nutrition (2021)"
+      ],
+      "image": "/assets/team/elena-conte.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Dr. Marco Farina",
+      "ruolo": "Nutrizionista collaboratore",
+      "qualifica": "Dottore in Scienze dell'Alimentazione",
+      "iscrizioneAlbo": "Ordine Nazionale dei Biologi n. 094517",
+      "bio": "Marco collabora con lo studio dal 2021, occupandosi in particolare di nutrizione sportiva e composizione corporea. Atleta amatoriale di triathlon, porta un punto di vista pratico e motivante nella gestione dei pazienti sportivi.",
+      "specializzazioni": ["Nutrizione sportiva", "Body composition", "Dimagrimento"],
+      "formazione": [
+        "Laurea Scienze dell'Alimentazione — Università Cattolica Roma (2017)",
+        "Specializzazione Nutrizione dello Sport — ARNA (2020)"
+      ],
+      "image": "/assets/team/marco-farina.jpg"
+    }
+  ]
+}

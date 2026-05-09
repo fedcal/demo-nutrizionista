@@ -1,0 +1,114 @@
+{
+  "servizi": [
+    {
+      "id": "prima-visita",
+      "nome": "Prima visita nutrizionale",
+      "descrizione": "Anamnesi alimentare completa, analisi delle abitudini di vita, valutazione antropometrica e impostazione del piano alimentare personalizzato. Include bilancio energetico e macro-nutrienti.",
+      "durata": "75 min",
+      "prezzo": 100,
+      "prezzoFormato": "€100",
+      "categoria": "visita",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "follow-up",
+      "nome": "Visita di controllo (follow-up)",
+      "descrizione": "Monitoraggio progressi, adattamento del piano alimentare in base ai risultati ottenuti e alle variazioni di stile di vita. Rivalutazione parametri corporei.",
+      "durata": "45 min",
+      "prezzo": 50,
+      "prezzoFormato": "€50",
+      "categoria": "visita",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "body-composition",
+      "nome": "Analisi composizione corporea InBody",
+      "descrizione": "Misurazione bioimpedenziometrica professionale InBody 270: massa grassa, massa muscolare, acqua corporea, metabolismo basale stimato. Report dettagliato con interpretazione clinica.",
+      "durata": "30 min",
+      "prezzo": 40,
+      "prezzoFormato": "€40",
+      "categoria": "composizione",
+      "evidenceLevel": "alto",
+      "disponibileOnline": false
+    },
+    {
+      "id": "dieta-sportiva",
+      "nome": "Nutrizione sportiva",
+      "descrizione": "Piano nutrizionale periodizzato per atleti amatoriali e agonisti. Strategia di carico/scarico di carboidrati, integrazione evidence-based, finestre anaboliche e recovery nutrition.",
+      "durata": "75 min",
+      "prezzo": 120,
+      "prezzoFormato": "€120",
+      "categoria": "sportiva",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "gravidanza",
+      "nome": "Nutrizione in gravidanza e allattamento",
+      "descrizione": "Piano alimentare bilanciato per ogni trimestre di gravidanza e fase di allattamento. Prevenzione carenze (folati, ferro, calcio, DHA) e gestione sintomi gravidici.",
+      "durata": "75 min",
+      "prezzo": 120,
+      "prezzoFormato": "€120",
+      "categoria": "clinica",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "dimagrimento",
+      "nome": "Programma dimagrimento sostenibile",
+      "descrizione": "Percorso strutturato per la perdita di peso con approccio evidence-based: deficit calorico moderato, preservazione massa muscolare, educazione alimentare duratura. Senza diete restrittive.",
+      "durata": "75 min",
+      "prezzo": 100,
+      "prezzoFormato": "€100",
+      "categoria": "visita",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "intolleranze",
+      "nome": "Gestione intolleranze e allergie alimentari",
+      "descrizione": "Piano di eliminazione e reintroduzione guidata per intolleranze (lattosio, glutine, istamina, nichel) e allergie alimentari. Collaborazione con il medico curante.",
+      "durata": "60 min",
+      "prezzo": 100,
+      "prezzoFormato": "€100",
+      "categoria": "clinica",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "online",
+      "nome": "Consulenza online",
+      "descrizione": "Prima visita nutrizionale in videochiamata sicura. Stessa qualità della visita in studio, comodamente da casa. Piattaforma GDPR-compliant, referto via email cifrata.",
+      "durata": "75 min",
+      "prezzo": 90,
+      "prezzoFormato": "€90",
+      "categoria": "online",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    },
+    {
+      "id": "piano-settimanale",
+      "nome": "Piano pasti settimanale personalizzato",
+      "descrizione": "Menù settimanale dettagliato con ricette, lista della spesa e preparazione pasti. Adattato alle preferenze, stagionalità e budget del paziente. PDF e app companion.",
+      "durata": "30 min",
+      "prezzo": 60,
+      "prezzoFormato": "€60",
+      "categoria": "visita",
+      "evidenceLevel": "medio",
+      "disponibileOnline": true
+    },
+    {
+      "id": "nutrizione-anziano",
+      "nome": "Nutrizione nell'anziano",
+      "descrizione": "Piano nutrizionale per prevenire sarcopenia, osteoporosi e malnutrizione negli over 65. Gestione polypharma-nutrizione e adattamento a eventuali limitazioni masticatorie.",
+      "durata": "75 min",
+      "prezzo": 100,
+      "prezzoFormato": "€100",
+      "categoria": "clinica",
+      "evidenceLevel": "alto",
+      "disponibileOnline": true
+    }
+  ]
+}

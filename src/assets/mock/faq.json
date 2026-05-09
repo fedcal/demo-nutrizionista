@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "Qual è la differenza tra nutrizionista e dietologo?",
+      "risposta": "Il dietologo è un medico specializzato in Scienza dell'Alimentazione che può prescrivere farmaci e diagnosi cliniche. Il nutrizionista biologo (come la Dr.ssa Conte, iscritta all'Ordine Nazionale dei Biologi) elabora piani alimentari personalizzati a fini nutrizionali e preventivi. Per patologie gravi come diabete, IRC o disfagia severa lavoriamo in team con il medico specialista.",
+      "categoria": "Generale"
+    },
+    {
+      "domanda": "Cosa succede durante il primo appuntamento?",
+      "risposta": "La prima visita dura circa 75 minuti: raccogliamo l'anamnesi alimentare e medica, analizziamo le abitudini di vita (sport, sonno, stress), eseguiamo la valutazione antropometrica e, se prenotata, l'analisi InBody. Al termine viene impostato il piano alimentare personalizzato con macro-nutrienti e indicazioni pratiche. Il referto scritto è inviato entro 48 ore.",
+      "categoria": "Visita"
+    },
+    {
+      "domanda": "C'è un'app companion per seguire il piano alimentare?",
+      "risposta": "Sì, utilizziamo l'app gratuita Cronometer per il tracciamento dei pasti. Fornisce feedback in tempo reale su calorie, macro e micro-nutrienti. In alternativa è disponibile il piano in formato PDF con lista della spesa settimanale. L'app non sostituisce le visite di follow-up.",
+      "categoria": "Strumenti"
+    },
+    {
+      "domanda": "Sono disponibili consulenze online?",
+      "risposta": "Sì, la prima visita e tutte le visite di controllo sono disponibili in videochiamata su piattaforma certificata GDPR-compliant. L'analisi InBody non è disponibile online e richiede la presenza in studio. Le consulenze online hanno un costo ridotto di €10 rispetto alla visita in studio.",
+      "categoria": "Online"
+    },
+    {
+      "domanda": "Con quale frequenza fare le visite di follow-up?",
+      "risposta": "Dipende dall'obiettivo: per il dimagrimento o la nutrizione sportiva consigliamo un controllo ogni 3-4 settimane nelle prime fasi, poi ogni 6-8 settimane a regime. Per gravidanza o patologie cliniche la frequenza è più ravvicinata. Il follow-up serve ad adattare il piano all'evoluzione della situazione, non solo a 'pesarsi'.",
+      "categoria": "Visita"
+    },
+    {
+      "domanda": "I dati sanitari sono trattati in conformità al GDPR Art. 9?",
+      "risposta": "Sì, i dati sanitari (dati particolari ai sensi dell'Art. 9 GDPR) sono trattati con il consenso esplicito del paziente, conservati in modo cifrato e non condivisi con terze parti senza autorizzazione. Il paziente ha diritto di accesso, rettifica, cancellazione e portabilità. L'informativa privacy completa è disponibile allo studio e sul sito.",
+      "categoria": "Privacy"
+    },
+    {
+      "domanda": "La spesa per le visite nutrizionali è detraibile?",
+      "risposta": "Sì, le prestazioni del Biologo Nutrizionista sono detraibili al 19% nella dichiarazione dei redditi (Mod. 730/Unico) tra le spese sanitarie, a condizione che il pagamento sia tracciabile (bonifico, carta). Emettiamo regolare ricevuta fiscale o fattura elettronica.",
+      "categoria": "Amministrativo"
+    },
+    {
+      "domanda": "Lavorate con atleti agonisti o solo amatoriali?",
+      "risposta": "Lavoriamo con entrambi. Per atleti agonisti soggetti a controlli antidoping, utilizziamo esclusivamente integratori certificati (Informed Sport, NSF). Il piano periodizzato per agonisti include strategie di carico/scarico, alimentazione pre-gara e recovery nutrition validate dalla letteratura scientifica (ISSN, IOC).",
+      "categoria": "Sportiva"
+    }
+  ]
+}
